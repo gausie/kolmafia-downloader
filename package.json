@@ -1,0 +1,11 @@
+{
+  "name": "kolmafia-downloader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "dialog": "^0.3.1",
+    "node-fetch": "^2.2.0",
+    "node-svn-ultimate": "^1.1.0"
+  }
+}
